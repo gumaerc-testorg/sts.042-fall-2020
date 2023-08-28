@@ -16,15 +16,15 @@ No prerequisites.
 
 ## Course Description
 
-Explores the changing roles of physics and physicists during the 20th century. Ranges from relativity theory and quantum mechanics to high-energy physics and cosmology. Examines the development of modern physics within shifting institutional, cultural, and political contexts, such as physics in Imperial Britain, Nazi Germany, US efforts during World War II, and physicists’ roles during the Cold War.
+This class explores the changing roles of physics and physicists during the 20th century. Topics range from relativity theory and quantum mechanics to high-energy physics and cosmology. We examine the development of modern physics and the role of physicists within shifting institutional, cultural, and political contexts, such as Imperial Britain, Nazi Germany, and the US during World War II, and the Cold War.
 
 ## Readings
 
-There is no assigned textbook for this course. All reading assignments should be completed before the appropriate class session. Reading assignments are available on the course site.
+There is no assigned textbook for this course. All reading assignments should be completed before the appropriate class session. 
 
 ## Grading
 
-Paper 1: 25%  
-Paper 2 (first version): 20%  
-Paper 2 (revised version): 20%  
+Paper 1: 25%    
+Paper 2 (first version): 20%    
+Paper 2 (revised version): 20%    
 Paper 3: 35%

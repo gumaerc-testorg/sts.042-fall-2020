@@ -1,9 +1,9 @@
 ---
 content_type: page
-description: Reading and viewing list for STS.042J.
-draft: false
-title: Readings
-uid: e89e2633-dec3-43d5-9a9f-460ba9bf2381
+description: Reading list and optional readings for STS.042.
+draft: true
+title: Readings v2
+uid: 169c70da-ef12-479c-a679-d3edd879838c
 ---
 ## I. Introduction and Background 
 
