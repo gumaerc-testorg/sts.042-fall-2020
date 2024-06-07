@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/ocw_8225_sts042_lecture12_2020oct14_360p_16_9.mp4
-file_size: 3451665195
+file_size: 133058627
 file_type: video/mp4
 image_metadata:
   caption: ''
