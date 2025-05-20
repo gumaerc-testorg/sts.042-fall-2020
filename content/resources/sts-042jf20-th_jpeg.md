@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/sts-042jf20-th.jpeg
+file: courses/sts042-einstein-oppenheimer-feynman-physics-in-the-20th-century/sts-042jf20-th.jpeg
 file_size: 136611
 file_type: image/jpeg
 image_metadata:
