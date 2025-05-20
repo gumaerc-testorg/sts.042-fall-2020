@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/mitsts_042j_f20_lec01.pdf
+file: courses/sts042-einstein-oppenheimer-feynman-physics-in-the-20th-century/mitsts_042j_f20_lec01.pdf
 file_size: 2069441
 file_type: application/pdf
 image_metadata:
