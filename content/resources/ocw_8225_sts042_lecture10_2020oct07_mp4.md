@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/ocw_8225_sts042_lecture10_2020oct07_360p_16_9.mp4
+file: courses/sts042-einstein-oppenheimer-feynman-physics-in-the-20th-century/ocw_8225_sts042_lecture10_2020oct07_360p_16_9.mp4
 file_size: 149047803
 file_type: video/mp4
 image_metadata:
