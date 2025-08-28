@@ -36,6 +36,7 @@
   },
   "course_title": "Einstein, Oppenheimer, Feynman: Physics in the 20th Century",
   "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "This class explores the changing roles of physics and physicists during the 20th century. Topics range from relativity theory and quantum mechanics to high-energy physics and cosmology. We examine the development of modern physics and the role of physicists within shifting institutional, cultural, and political contexts, such as Imperial Britain, Nazi Germany, and the US during World War II, and the Cold War.",
   "department_numbers": [
     "STS",
@@ -51,8 +52,10 @@
     "Lecture Notes",
     "Lecture Videos",
     "Written Assignments",
-    "Readings"
+    "Readings",
+    "Podcasts"
   ],
   "site_uid": "34d9dcaf-9cd3-4bce-83f7-bc64413dd996",
-  "site_short_id": "sts.042-fall-2020"
+  "site_short_id": "sts.042-fall-2020",
+  "site_url_path": "courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020"
 }
