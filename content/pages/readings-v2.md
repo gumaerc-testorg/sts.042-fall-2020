@@ -18,11 +18,11 @@ No assigned readings
 
 ### Session 3: Worldviews, Wranglers, and the Making of Theoretical Physicists 
 
-- Jed Buchwald, “{{% resource_link "3cb3356c-7d16-4cee-a28b-af7a3a0c33f0" "The Hall effect and Maxwellian electrodynamics in the 1880s, Part I: The discovery of a new electric field," %}}” *Centaurus* 23 (1979): 51–99. Read esp. pp. 51–64. 
+- Jed Buchwald, “[The Hall effect and Maxwellian electrodynamics in the 1880s, Part I: The discovery of a new electric field,](https://doi.org/10.1111/j.1600-0498.1979.tb00360.x)” *Centaurus* 23 (1979): 51–99. Read esp. pp. 51–64. 
 
 ### Session 4: Waves in the Ether 
 
-- Albert A. Michelson and Edward W. Morley, “{{% resource_link "3600e672-3c97-41f6-af0f-abc2a5527294" "On the relative motion of the Earth and the luminiferous ether" %}},” *American Journal of Science* 34 (November 1887): 333–345. 
+- Albert A. Michelson and Edward W. Morley, “[On the relative motion of the Earth and the luminiferous ether](https://www.tandfonline.com/doi/abs/10.1080/14786448708628130),” *American Journal of Science* 34 (November 1887): 333–345. 
 - *Optional*: David Kaiser, “{{% resource_link "cc13c676-23a2-4671-99dc-48a676d91dff" "Lecture Notes: Electrodynamics for Maxwell and Lorentz (PDF)" %}},” September 2018. 
 
 ## II. Einstein: Relativity, Quanta, and the Philosopher-Scientist 
@@ -30,21 +30,21 @@ No assigned readings
 ### Session 5: Einstein and Experiment 
 
 - Albert Einstein, “On the electrodynamics of moving bodies,” translated and reprinted in Arthur I. Miller, *Albert Einstein’s Special Theory of Relativity: Emergence (1905) and Early Interpretation (1905–1911)* (Reading: Addison-Wesley, 1981), 392–6. ISBN: 9780387948706.
-- Amanda Gefter, “{{% resource_link "b385346c-0519-4400-9dac-5142087fcec2" "When Einstein tilted at windmills" %}},” *Nautilus* (December 2016). 
-- Peter Galison, “{{% resource_link "effcfcd1-31af-49ea-9c18-cf5954d217c1" "Einstein’s clocks: The place of time" %}},” *Critical Inquiry 26* (Winter 2000): 355–89. 
+- Amanda Gefter, “[When Einstein tilted at windmills](https://nautil.us/when-einstein-tilted-at-windmills-rp-236254/),” *Nautilus* (December 2016). 
+- Peter Galison, “[Einstein’s clocks: The place of time](https://www.jstor.org/stable/1344127),” *Critical Inquiry 26* (Winter 2000): 355–89. 
 - *Optional*: David Kaiser, “{{% resource_link "3af8a375-7023-4199-bcc2-801cb6dc67b6" "Lecture Notes: E = mc<sup>2</sup> (PDF)" %}},” September 2020. 
 - *Optional*: Michel Janssen, “Appendix: Special relativity,” in *The Cambridge Companion to Einstein*, ed. Michel Janssen and Christoph Lehner (New York: Cambridge University Press, 2014), 1–19. 
 
 ### Session 6: Reception of Special Relativity 
 
-- Andrew Warwick, “{{% resource_link "ef6389de-fae7-4127-8492-450f51d2c36a" "Cambridge mathematics and Cavendish physics: Cunningham, Campbell, and Einstein’s relativity, 1905–1911. Part I: The uses of theory" %}},” *Studies in History and Philosophy of Science* 23 (1992): 625–56. 
+- Andrew Warwick, “[Cambridge mathematics and Cavendish physics: Cunningham, Campbell, and Einstein’s relativity, 1905–1911. Part I: The uses of theory](https://doi.org/10.1016/0039-3681(92)90015-X),” *Studies in History and Philosophy of Science* 23 (1992): 625–56. 
 - Optional: Michel Janssen, “Appendix: Special relativity,” in *The Cambridge Companion to Einstein*, ed. Michel Janssen and Christoph Lehner (New York: Cambridge University Press, 2014), 19–44. 
 
 ### Session 7: A Political History of Gravity 
 
 - Albert Einstein, “What is the theory of relativity?,” in *Ideas and Opinions*, ed. Carl Seelig (New York: Crown Publishers, 1954), 227–32. ISBN: 9780517003930.
 - David Kaiser, “General relativity primer: Or, how I learned to stop worrying and love curved spacetime,” unpublished manuscript, 2006.
-- Loren Graham, “{{% resource_link "77742919-8c4b-4f82-8818-118f3656407b" "Do mathematical equations display social attributes?" %}},” *Mathematical Intelligencer* 22, no. 3 (2000): 31–36. 
+- Loren Graham, “[Do mathematical equations display social attributes?](https://link.springer.com/article/10.1007/BF03025279),” *Mathematical Intelligencer* 22, no. 3 (2000): 31–36. 
 - *Optional*: David Kaiser, “General relativity: An informal primer,” unpublished manuscript, 21 October 2011. 
 
 ### Session 8: Rethinking Light 
@@ -56,12 +56,12 @@ No assigned readings
 ### Session 9: Rethinking Matter 
 
 - John Heilbron, “Bohr’s first theories of the atom,” in *Niels Bohr: A Centenary Volume*, ed. A. P. French and P. J. Kennedy (Cambridge: Harvard University Press, 1985), 33–49. ISBN: 9780674624153.
-- Megan Shields Formato, “{{% resource_link "1b762792-aa2d-4944-98d8-a30f75000e30" "Crafting quantum theory: Margrethe Bohr and the labor of theoretical physics" %}},” *The New Inquiry* (15 March 2018). 
+- Megan Shields Formato, “[Crafting quantum theory: Margrethe Bohr and the labor of theoretical physics](https://thenewinquiry.com/blog/crafting-quantum-theory-margrethe-bohr-and-the-labor-of-theoretical-physics/),” *The New Inquiry* (15 March 2018). 
 
 ### Session 10: Matrices and Uncertainty 
 
 - Werner Heisenberg, “Quantum-theoretical re-interpretation of kinematic and mechanical relations,” translated and reprinted in *Sources of Quantum Mechanics*, ed. B. L. van der Waerden (New York: Dover, 1967), 261–6. ISBN: 9780486618814.
-- David Cassidy, “{{% resource_link "b17b3a0a-f7e7-4053-8ff3-46fa88cc7073" "Heisenberg, uncertainty, and the quantum revolution" %}},” *Scientific American* 266 (May 1992): 106–12. 
+- David Cassidy, “[Heisenberg, uncertainty, and the quantum revolution](https://www.jstor.org/stable/24939065),” *Scientific American* 266 (May 1992): 106–12. 
 
 ### Session 11: Waves and Probabilities 
 
@@ -71,7 +71,7 @@ No assigned readings
 
 ### Session 12: Quantum Weirdness: Schrödinger’s Cat, EPR, and Bell’s Theorem 
 
-- Albert Einstein, Boris Podolsky, and Nathan Rosen, “{{% resource_link "201fa74c-101a-4eca-9165-3a4045b687c6" "Can quantum-mechanical description of reality be considered complete?" %}},” *Physical Review* 47 (1935): 777–780. 
+- Albert Einstein, Boris Podolsky, and Nathan Rosen, “[Can quantum-mechanical description of reality be considered complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777),” *Physical Review* 47 (1935): 777–780. 
 - David Kaiser, “Life-and-death: When nature refuses to select,” in *Quantum Legacies: Dispatches from an Uncertain World* (Chicago: University of Chicago Press, 2020), 29–38. ISBN: 9780226698052.
 - David Kaiser, “Spooky actions at a distance,” in *How the Hippies Saved Physics* (New York: W. W. Norton, 2011), 45–67. ISBN: 9780393342314.
 - *Optional*: David Kaiser, “{{% resource_link "c69711e6-f115-4408-abeb-5a256e32277e" "Lecture Notes: Bell’s inequality and quantum entanglement (PDF)" %}},” October 2020. 
@@ -80,8 +80,8 @@ No assigned readings
 
 ### Session 13: Physics under Hitler 
 
-- Maria Popova, “{{% resource_link "82a8d794-e175-47d4-9ab1-9600e5369b9c" "How pioneering physicist Lise Meitner discovered nuclear fission, paved the way for women in science, and was denied the Nobel Prize" %}},” *The Marginalian*. 
-- Peter Galison, “{{% resource_link "60f0140e-96fa-4f47-86ea-105a1ab5d11f" "Marietta Blau: Between Nazis and nuclei" %}},” *Physics Today* 50 (Nov. 1997): 42–48. 
+- Maria Popova, “[How pioneering physicist Lise Meitner discovered nuclear fission, paved the way for women in science, and was denied the Nobel Prize](https://www.themarginalian.org/2016/10/27/lise-meitner/),” *The Marginalian*. 
+- Peter Galison, “[Marietta Blau: Between Nazis and nuclei](https://doi.org/10.1063/1.881996),” *Physics Today* 50 (Nov. 1997): 42–48. 
 - *Operation Epsilon: The Farm Hall Transcripts*, ed. Charles Frank (Berkeley: University of California Press, 1993), 70–91. ISBN: 9780520084995.
 - *Recommended*: A BBC video production of Michael Frayn’s play *Copenhagen,* directed by Howard Davies, produced by Richard Fell et al., BBC Worldwide (2002).
 - *Optional*: David Kaiser, “{{% resource_link "54d891cd-e5d9-4722-ad67-3c1b79ab896e" "Lecture Notes: Energy from Nuclear Fission (PDF)" %}},” October 2020. 
@@ -98,16 +98,16 @@ No assigned readings
 ### Session 16: Secrecy and Security in the Nuclear Age 
 
 - Joint Congressional Committee on Atomic Energy, “Development of a Super Weapon,” hearing typescript dated 9 January 1950, declassified. 
-- David Kaiser, “{{% resource_link "938e86be-0897-415c-8c78-57cb23a1e7d8" "The atomic secret in red hands? American suspicions of theoretical physicists during the early Cold War" %}},” *Representations* 90 (2005): 28–60. 
+- David Kaiser, “[The atomic secret in red hands? American suspicions of theoretical physicists during the early Cold War](https://online.ucpress.edu/representations/article-abstract/90/1/28/67264/The-Atomic-Secret-in-Red-Hands-American-Suspicions),” *Representations* 90 (2005): 28–60. 
 
 ### Session 17: Film: Containment 
 
 - *Note*: In lieu of the class session, please watch the film *Containment* (2016), directed and produced by Peter Galison & Robb Moss.
-- Peter Galison with Jamie Kruse, “{{% resource_link "bdc27bef-8d4d-4126-bfb6-829ffc4e6591" "Waste-Wilderness: A Conversation with Peter L. Galison" %}},” *FOP News* (21 March 2011).
+- Peter Galison with Jamie Kruse, “[Waste-Wilderness: A Conversation with Peter L. Galison](https://fopnews.wordpress.com/2011/03/31/galison/),” *FOP News* (21 March 2011).
 
 ### Session 18: The Cold War Classroom: Teaching Quantum Theory in Postwar American Physics 
 
-- Philip Morrison, “{{% resource_link "e4faeeb2-c419-45c7-b77c-d40e2c5e1535" "The laboratory demobilizes" %}},” *Bulletin of the Atomic Scientists* 2 (Nov 1946): 5–6. 
+- Philip Morrison, “[The laboratory demobilizes](https://www.tandfonline.com/doi/abs/10.1080/00963402.1946.11458041?journalCode=rbul20),” *Bulletin of the Atomic Scientists* 2 (Nov 1946): 5–6. 
 - Evelyn Fox Keller, “The anomaly of a woman in physics,” in *Working It Out*, ed. Sara Ruddick and Pamela Daniels (New York: Pantheon, 1977), 77–91. ISBN: 9780394735573.
 - David Kaiser, “Training quantum mechanics,” in *Quantum Legacies: Dispatches from an Uncertain World* (Chicago: University of Chicago Press, 2020), 116–135. ISBN: 9780226698052.
 
@@ -122,12 +122,12 @@ No assigned readings
 
 - Robert Mills, “Tutorial on infinities in QED,” in *Renormalization: Lorentz to Landau (and Beyond)*, ed. Laurie M. Brown (New York: Springer, 1993), 57–88. ISBN: 9780387979335.
 - Richard Feynman, *QED: The Strange Theory of Light and Matter* (Princeton: Princeton University Press, 1985), 77–101. ISBN: 9780691164090.
-- David Kaiser, “{{% resource_link "aee5d7d1-c875-4f91-a444-8b8405c098a4" "Physics and Feynman’s Diagrams" %}},” *American Scientist* 93 (2005): 156–165. 
+- David Kaiser, “[Physics and Feynman’s Diagrams](https://www.jstor.org/stable/27858550),” *American Scientist* 93 (2005): 156–165. 
 
 ### Session 21: Teaching Feynman's Tools: The Dispersion of Feynman Diagrams in Postwar Physics 
 
 - Geoffrey Chew, “Impasse for the elementary-particle concept,” in *The Sciences Today*, ed. Robert Hutchins and Mortimer Adler (New York: Arno, 1977 \[1974\]), 366–99. ISBN: 9780405071737.
-- David Kaiser, “{{% resource_link "c1e60c4c-236f-4358-8528-4984ede1580a" "Nuclear democracy: Political engagement, pedagogical reform, and particle physics in postwar America" %}},” *Isis* 93 (2002): 229–268. 
+- David Kaiser, “[Nuclear democracy: Political engagement, pedagogical reform, and particle physics in postwar America](https://www.journals.uchicago.edu/doi/full/10.1086/344960),” *Isis* 93 (2002): 229–268. 
 
 ### Session 22: Quarks, Gauge Fields, and the Rise of the Standard Model 
 
@@ -136,12 +136,12 @@ No assigned readings
 ### Session 23: The Birth of Particle Cosmology 
 
 - David Kaiser, “When fields collide,” in  *Quantum Legacies: Dispatches from an Uncertain World* (Chicago: University of Chicago Press, 2020), 183–201. ISBN: 9780226698052.
-- Leandra Swanner, “{{% resource_link "a978b80c-24c1-44b2-9d75-9f38691b8511" "Instruments of science or conquest? Neocolonialism and modern American astronomy" %}},” *Historical Studies in the Natural Sciences* 47 (2017): 392–319. 
+- Leandra Swanner, “[Instruments of science or conquest? Neocolonialism and modern American astronomy](https://doi.org/10.1525/hsns.2017.47.3.293),” *Historical Studies in the Natural Sciences* 47 (2017): 392–319. 
 
 ### Session 24: The Big Bang, Cosmic Inflation, and the Latest Observations
 
-- Alan Guth and David Kaiser, “{{% resource_link "dfa5b4c2-dff8-49e5-a88c-db8dc412907d" "Inflationary cosmology: Exploring the universe from the smallest to the largest scales" %}},” Science 307 (11 Feb 2005): 884–890. 
-- David Kaiser, “{{% resource_link "ba34a6c9-adec-4005-8f9b-9b151e031436" "Elegant Wiggles: Why the Universe is Lumpy" %}},” *Huffington Post* (22 May 2012).
+- Alan Guth and David Kaiser, “[Inflationary cosmology: Exploring the universe from the smallest to the largest scales](https://www.science.org/doi/10.1126/science.1107483),” Science 307 (11 Feb 2005): 884–890. 
+- David Kaiser, “[Elegant Wiggles: Why the Universe is Lumpy](https://www.huffingtonpost.com/david-kaiser/elegant-wiggles-how-theu_b_1531848.html),” *Huffington Post* (22 May 2012).
 - *Optional*: David Kaiser, “Cosmic inflation: An informal primer,” unpublished manuscript, 23 November 2011. 
 
 ### Session 25: String Theory and the Multiverse
