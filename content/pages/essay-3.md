@@ -66,7 +66,7 @@ Did German physicists’ attitudes toward the nuclear program differ from one an
 
 1. Selections from *Physics and National Socialism: An Anthology of Primary Sources*, edited by Klaus and Ann Hentschel (Boston: Birkhauser, 1996), pp. 332–406. \[This contains several separate primary sources; you need not draw on all of the sources included here.\] 
 2. *Farm Hall Transcripts*, edited by Charles Frank (Berkeley: University of California Press, 1993), pp. 70–91. 
-3. {{% resource_link "c5623cd3-cdd5-4d28-8ea3-31b5439cf309" "Documents regarding the 1941 meeting in Copenhagen between Niels Bohr and Werner Heisenberg" %}}.
+3. [Documents regarding the 1941 meeting in Copenhagen between Niels Bohr and Werner Heisenberg](https://www.nbarchive.dk/collections/bohr-heisenberg/).
 4. Werner Heisenberg, “Research in Germany on the technical application of atomic energy,” *Nature* 160     
     (1947): 211–215.
 
